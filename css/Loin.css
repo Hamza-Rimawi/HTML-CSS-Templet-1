@@ -151,7 +151,7 @@ border-bottom:1px solid #ddd;
 /* end haeder */
 /* start landing */
 .landing{
-background-image:url(../images/white\ mountain.jpg);
+background-image:url("../images/white\ mountain.jpg");
 background-size: cover;
 height: calc(100vh - 68px);
 position: relative;
